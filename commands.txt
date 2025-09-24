@@ -1,0 +1,35 @@
+Got it 👍 — I’ll give you **professional, paragraph-style job descriptions (JDs)** for each of those roles. These are concise but realistic, so you can use them directly in your app.
+
+---
+
+### 🖥️ Frontend Developer
+
+As a Frontend Developer, you will be responsible for designing and implementing user-facing features that are visually appealing, responsive, and highly interactive. You will work with modern frameworks like React.js, Angular, or Vue.js to translate UI/UX designs into clean and maintainable code. Strong knowledge of HTML, CSS, JavaScript, and responsive design principles is essential. You will collaborate closely with designers and backend engineers to ensure seamless integration, delivering fast and scalable web applications that provide an excellent user experience.
+
+---
+
+### ⚙️ Backend Developer
+
+As a Backend Developer, you will build and maintain the server-side logic, databases, and APIs that power applications. You will design secure, scalable, and efficient systems using technologies like Node.js, Java, Python, or Go, and work with relational and NoSQL databases. Your role will involve developing RESTful or GraphQL APIs, ensuring data integrity, and optimizing performance for high availability. Collaboration with frontend developers and DevOps teams is crucial to ensure smooth delivery of features and a reliable application infrastructure.
+
+---
+
+### 📊 Data Analyst
+
+As a Data Analyst, you will collect, process, and interpret large datasets to help organizations make informed decisions. Your role includes building dashboards, generating reports, and uncovering actionable insights through data visualization tools like Power BI, Tableau, or Python libraries. You will work with SQL for data extraction, Excel for advanced analysis, and Python/R for statistical modeling. Attention to detail, critical thinking, and the ability to communicate findings clearly to both technical and non-technical stakeholders are key to success in this role.
+
+---
+
+### 🤖 Machine Learning Engineer
+
+As a Machine Learning Engineer, you will design, develop, and deploy machine learning models to solve complex real-world problems. You will work with large datasets, implement algorithms, and fine-tune models using frameworks like TensorFlow, PyTorch, or Scikit-learn. Responsibilities include feature engineering, model training, validation, and deployment into production environments. You will collaborate with data scientists, software engineers, and product teams to integrate intelligent solutions into applications, ensuring scalability and performance of ML pipelines.
+
+---
+
+### 🔧 DevOps Engineer
+
+As a DevOps Engineer, you will bridge the gap between development and operations by automating workflows, managing cloud infrastructure, and ensuring continuous integration and deployment (CI/CD). You will work with tools like Docker, Kubernetes, Jenkins, and Terraform to build scalable and secure systems. Responsibilities include monitoring application performance, optimizing deployment pipelines, and implementing security best practices. Strong expertise in cloud platforms such as AWS, Azure, or GCP is essential, along with the ability to troubleshoot and maintain high system availability.
+
+---
+
+👉 Do you want me to **format these JDs directly into your PostJob component** (so you can select from predefined templates), or just keep them here as text for manual entry?

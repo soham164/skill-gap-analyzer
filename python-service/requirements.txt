@@ -1,0 +1,9 @@
+streamlit
+pandas
+spacy
+pymupdf
+sentence-transformers
+transformers
+torch
+numpy
+fastapi

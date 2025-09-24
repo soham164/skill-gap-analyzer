@@ -1,0 +1,249 @@
+canonical,variants
+
+react,"[""react"", ""reactjs"", ""react.js"", ""react js""]"
+
+vue.js,"[""vue"", ""vuejs"", ""vue.js"", ""vue js""]"
+
+angular,"[""angular"", ""angularjs"", ""angular.js"", ""angular js""]"
+
+node.js,"[""node"", ""nodejs"", ""node.js"", ""node js""]"
+
+express,"[""express"", ""expressjs"", ""express.js"", ""express js""]"
+
+mongodb,"[""mongodb"", ""mongo db"", ""mongo"", ""mongo-db""]"
+
+PostgreSQL,"[""PostgreSQL"", ""postgres"", ""pgsql"", ""postgre sql""]"
+
+rest api,"[""rest api"", ""restapi"", ""rest-api"", ""rest"", ""restful api"", ""restful""]"
+
+javascript,"[""javascript"", ""js"", ""ECMAScript"", ""es6"", ""es2015"", ""es2020""]"
+
+typescript,"[""typescript"", ""ts"", ""type script""]"
+
+python,"[""python"", ""python3"", ""python 3"", ""py""]"
+
+c++,"[""c++"", ""cpp"", ""cplusplus"", ""c plus plus""]"
+
+c#,"[""c#"", ""csharp"", ""c sharp"", "".net"", ""dotnet""]"
+
+sql,"[""sql"", ""structured query language""]"
+
+machine learning,"[""machine learning"", ""ml"", ""machine-learning""]"
+
+deep learning,"[""deep learning"", ""dl"", ""deep-learning""]"
+
+artificial intelligence,"[""artificial intelligence"", ""ai""]"
+
+aws,"[""aws"", ""amazon web services""]"
+
+gcp,"[""gcp"", ""google cloud platform"", ""google cloud""]"
+
+azure,"[""azure"", ""Microsoft azure"", ""ms azure""]"
+
+GitHub,"[""GitHub"", ""git hub""]"
+
+git,"[""git"", ""version control"", ""git version control""]"
+
+ci/cd,"[""ci/cd"", ""cicd"", ""continuous integration"", ""continuous deployment"", ""continuous delivery""]"
+
+docker,"[""docker"", ""containerization"", ""containers"", ""docker containers""]"
+
+Kubernetes,"[""Kubernetes"", ""k8s"", ""k8"", ""kube""]"
+
+html,"[""html"", ""html5"", ""hypertext markup language""]"
+
+css,"[""css"", ""css3"", ""stylesheets"", ""cascading style sheets""]"
+
+sass,"[""sass"", ""scss"", ""syntactically awesome style sheets""]"
+
+jquery,"[""jquery"", ""jquery.js"", ""jquery js"", ""jq""]"
+
+MySQL,"[""MySQL"", ""my sql""]"
+
+oracle,"[""oracle"", ""oracle db"", ""oracle database""]"
+
+redis,"[""redis"", ""redis cache"", ""redis db""]"
+
+elasticsearch,"[""elasticsearch"", ""elastic search"", ""elastic""]"
+
+kafka,"[""kafka"", ""apache kafka""]"
+
+RabbitMQ,"[""RabbitMQ"", ""rabbit mq"", ""rabbit""]"
+
+graphql,"[""graphql"", ""graph ql""]"
+
+grpc,"[""grpc"", ""g rpc""]"
+
+Jenkins,"[""Jenkins"", ""Jenkins ci"", ""Jenkins ci/cd""]"
+
+terraform,"[""terraform"", ""tf""]"
+
+ansible,"[""ansible"", ""ansible automation""]"
+
+Linux,"[""Linux"", ""gnu/Linux"", ""unix""]"
+
+windows,"[""windows"", ""windows server"", ""win32"", ""Microsoft windows""]"
+
+macos,"[""macos"", ""mac os"", ""osx"", ""os x"", ""mac os x""]"
+
+react native,"[""react native"", ""react-native"", ""rn""]"
+
+vue,"[""vue"", ""vuejs"", ""vue.js"", ""vue js""]"
+
+next.js,"[""next.js"", ""nextjs"", ""next js"", ""next""]"
+
+nuxt.js,"[""nuxt.js"", ""nuxtjs"", ""nuxt js"", ""nuxt""]"
+
+Gatsby,"[""Gatsby"", ""gatsbyjs"", ""Gatsby.js"", ""Gatsby js""]"
+
+spring boot,"[""spring boot"", ""springboot"", ""spring-boot"", ""spring""]"
+
+asp.net,"[""asp.net"", ""aspnet"", ""asp net"", ""asp.net core""]"
+
+flask,"[""flask"", ""flask python"", ""flask framework""]"
+
+Django,"[""Django"", ""Django python"", ""Django framework""]"
+
+fastapi,"[""fastapi"", ""fast api"", ""fast-api""]"
+
+Laravel,"[""Laravel"", ""Laravel php""]"
+
+rails,"[""rails"", ""ruby on rails"", ""ror""]"
+
+flutter,"[""flutter"", ""flutter sdk"", ""flutter framework""]"
+
+swift,"[""swift"", ""swift language"", ""apple swift""]"
+
+kotlin,"[""kotlin"", ""kotlin language""]"
+
+go,"[""go"", ""golang"", ""go language""]"
+
+rust,"[""rust"", ""rust language"", ""rustling""]"
+
+ruby,"[""ruby"", ""ruby language""]"
+
+php,"[""php"", ""php language""]"
+
+java,"[""java"", ""java language"", ""jvm""]"
+
+scala,"[""scala"", ""scala language""]"
+
+r,"[""r"", ""r language"", ""r programming""]"
+
+matlab,"[""matlab"", ""mat lab""]"
+
+jupyter,"[""jupyter"", ""jupyter notebook"", ""jupyter lab"", ""jupyterlab""]"
+
+pandas,"[""pandas"", ""python pandas""]"
+
+numpy,"[""numpy"", ""python numpy""]"
+
+scikit-learn,"[""scikit-learn"", ""sklearn"", ""scikit learn""]"
+
+tensorflow,"[""tensorflow"", ""tf"", ""tensor flow""]"
+
+pytorch,"[""pytorch"", ""py torch"", ""torch""]"
+
+keras,"[""keras"", ""tf keras"", ""tensorflow keras""]"
+
+OpenCV,"[""OpenCV"", ""open cv"", ""cv2""]"
+
+spacy,"[""spacy"", ""spaCy""]"
+
+nltk,"[""nltk"", ""natural language toolkit""]"
+
+spark,"[""spark"", ""apache spark"", ""pyspark""]"
+
+Hadoop,"[""Hadoop"", ""apache Hadoop""]"
+
+airflow,"[""airflow"", ""apache airflow""]"
+
+selenium,"[""selenium"", ""selenium webdriver"", ""selenium automation""]"
+
+cypress,"[""cypress"", ""cypress.io"", ""cypress testing""]"
+
+jest,"[""jest"", ""jest testing"", ""jestjs""]"
+
+mocha,"[""mocha"", ""mochajs"", ""mocha testing""]"
+
+pytest,"[""pytest"", ""py test"", ""python pytest""]"
+
+junit,"[""junit"", ""junit testing"", ""junit5""]"
+
+testing,"[""testing"", ""test ng""]"
+
+postman,"[""postman"", ""postman api""]"
+
+insomnia,"[""insomnia"", ""insomnia rest""]"
+
+jira,"[""jira"", ""Atlassian jira""]"
+
+confluence,"[""confluence"", ""Atlassian confluence""]"
+
+slack,"[""slack"", ""slack communication""]"
+
+Microsoft teams,"[""Microsoft teams"", ""ms teams"", ""teams""]"
+
+notion,"[""notion"", ""notion app""]"
+
+asana,"[""asana"", ""asana project management""]"
+
+Trello,"[""Trello"", ""Trello board""]"
+
+agile,"[""agile"", ""agile methodology"", ""agile development""]"
+
+scrum,"[""scrum"", ""scrum methodology"", ""scrum framework""]"
+
+Kanban,"[""Kanban"", ""Kanban board"", ""Kanban methodology""]"
+
+nginx,"[""nginx"", ""nginx server""]"
+
+apache,"[""apache"", ""apache server"", ""apache http server"", ""httpd""]"
+
+Prometheus,"[""Prometheus"", ""Prometheus monitoring""]"
+
+Grafana,"[""Grafana"", ""Grafana dashboard""]"
+
+elk stack,"[""elk stack"", ""elk"", ""elasticsearch logstash kibana""]"
+
+datadog,"[""datadog"", ""data dog""]"
+
+new relic,"[""new relic"", ""newrelic""]"
+
+oauth,"[""oauth"", ""oauth2"", ""oauth 2.0""]"
+
+jwt,"[""jwt"", ""json web token"", ""json web tokens""]"
+
+ssl/tls,"[""ssl/tls"", ""ssl"", ""tls"", ""https""]"
+
+blockchain,"[""blockchain"", ""block chain"", ""distributed ledger""]"
+
+Ethereum,"[""Ethereum"", ""eth"", ""Ethereum blockchain""]"
+
+solidity,"[""solidity"", ""solidity language""]"
+
+web3.js,"[""web3.js"", ""web3js"", ""web3 js"", ""web3""]"
+
+smart contracts,"[""smart contracts"", ""smart contract"", ""blockchain contracts""]"
+
+defi,"[""defi"", ""decentralized finance""]"
+
+nft,"[""nft"", ""nfts"", ""non-fungible token"", ""non fungible token""]"
+
+unity,"[""unity"", ""unity3d"", ""unity engine""]"
+
+unreal engine,"[""unreal engine"", ""unreal"", ""ue4"", ""ue5""]"
+
+godot,"[""godot"", ""godot engine""]"
+
+three.js,"[""three.js"", ""threejs"", ""three js""]"
+
+Babylon.js,"[""Babylon.js"", ""babylonjs"", ""Babylon js""]"
+
+webgl,"[""webgl"", ""web gl""]"
+
+opengl,"[""opengl"", ""open gl""]"
+
+directx,"[""directx"", ""direct x""]"
+
+vulkan,"[""vulkan"", ""vulkan api""]"

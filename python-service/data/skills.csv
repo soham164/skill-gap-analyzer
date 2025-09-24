@@ -1,0 +1,258 @@
+skill,category
+python,programming_languages
+javascript,programming_languages
+typescript,programming_languages
+java,programming_languages
+c++,programming_languages
+c#,programming_languages
+ruby,programming_languages
+go,programming_languages
+rust,programming_languages
+kotlin,programming_languages
+swift,programming_languages
+php,programming_languages
+r,programming_languages
+matlab,programming_languages
+scala,programming_languages
+perl,programming_languages
+bash,programming_languages
+powershell,programming_languages
+sql,programming_languages
+plsql,programming_languages
+t-sql,programming_languages
+objective-c,programming_languages
+dart,programming_languages
+julia,programming_languages
+haskell,programming_languages
+clojure,programming_languages
+erlang,programming_languages
+elixir,programming_languages
+f#,programming_languages
+visual basic,programming_languages
+cobol,programming_languages
+react,frontend
+angular,frontend
+vue.js,frontend
+svelte,frontend
+next.js,frontend
+nuxt.js,frontend
+gatsby,frontend
+html,frontend
+css,frontend
+sass,frontend
+less,frontend
+tailwind css,frontend
+bootstrap,frontend
+material ui,frontend
+jquery,frontend
+webpack,frontend
+babel,frontend
+redux,frontend
+mobx,frontend
+rxjs,frontend
+graphql,frontend
+apollo,frontend
+relay,frontend
+ember.js,frontend
+backbone.js,frontend
+alpine.js,frontend
+lit,frontend
+node.js,backend
+express,backend
+django,backend
+flask,backend
+fastapi,backend
+spring boot,backend
+rails,backend
+asp.net,backend
+laravel,backend
+symfony,backend
+gin,backend
+echo,backend
+fiber,backend
+nestjs,backend
+koa,backend
+hapi,backend
+strapi,backend
+grpc,backend
+rest api,backend
+soap,backend
+microservices,backend
+serverless,backend
+lambda,backend
+api gateway,backend
+mysql,databases
+postgresql,databases
+mongodb,databases
+redis,databases
+elasticsearch,databases
+cassandra,databases
+oracle,databases
+sql server,databases
+sqlite,databases
+dynamodb,databases
+firebase,databases
+supabase,databases
+couchdb,databases
+neo4j,databases
+influxdb,databases
+timescaledb,databases
+clickhouse,databases
+mariadb,databases
+memcached,databases
+etcd,databases
+cockroachdb,databases
+fauna,databases
+arangodb,databases
+aws,cloud_devops
+azure,cloud_devops
+gcp,cloud_devops
+docker,cloud_devops
+kubernetes,cloud_devops
+terraform,cloud_devops
+ansible,cloud_devops
+jenkins,cloud_devops
+gitlab ci,cloud_devops
+github actions,cloud_devops
+circleci,cloud_devops
+travis ci,cloud_devops
+prometheus,cloud_devops
+grafana,cloud_devops
+elk stack,cloud_devops
+datadog,cloud_devops
+new relic,cloud_devops
+nginx,cloud_devops
+apache,cloud_devops
+load balancing,cloud_devops
+cdn,cloud_devops
+cloudflare,cloud_devops
+heroku,cloud_devops
+vercel,cloud_devops
+netlify,cloud_devops
+digitalocean,cloud_devops
+linode,cloud_devops
+vagrant,cloud_devops
+puppet,cloud_devops
+chef,cloud_devops
+machine learning,data_science_ml
+deep learning,data_science_ml
+tensorflow,data_science_ml
+pytorch,data_science_ml
+keras,data_science_ml
+scikit-learn,data_science_ml
+pandas,data_science_ml
+numpy,data_science_ml
+matplotlib,data_science_ml
+seaborn,data_science_ml
+plotly,data_science_ml
+jupyter,data_science_ml
+spark,data_science_ml
+hadoop,data_science_ml
+airflow,data_science_ml
+mlflow,data_science_ml
+kubeflow,data_science_ml
+computer vision,data_science_ml
+nlp,data_science_ml
+opencv,data_science_ml
+spacy,data_science_ml
+nltk,data_science_ml
+transformers,data_science_ml
+hugging face,data_science_ml
+langchain,data_science_ml
+vector databases,data_science_ml
+pinecone,data_science_ml
+weaviate,data_science_ml
+react native,mobile
+flutter,mobile
+ionic,mobile
+xamarin,mobile
+swiftui,mobile
+android studio,mobile
+xcode,mobile
+expo,mobile
+capacitor,mobile
+cordova,mobile
+native script,mobile
+android,mobile
+ios,mobile
+watchos,mobile
+tvos,mobile
+jest,testing_qa
+mocha,testing_qa
+cypress,testing_qa
+selenium,testing_qa
+playwright,testing_qa
+puppeteer,testing_qa
+junit,testing_qa
+pytest,testing_qa
+unittest,testing_qa
+testng,testing_qa
+jasmine,testing_qa
+karma,testing_qa
+chai,testing_qa
+postman,testing_qa
+insomnia,testing_qa
+jmeter,testing_qa
+gatling,testing_qa
+cucumber,testing_qa
+appium,testing_qa
+oauth,security
+jwt,security
+ssl/tls,security
+encryption,security
+penetration testing,security
+owasp,security
+burp suite,security
+metasploit,security
+nmap,security
+wireshark,security
+kali linux,security
+cryptography,security
+zero trust,security
+siem,security
+ids/ips,security
+firewall,security
+vpn,security
+agile,soft_skills
+scrum,soft_skills
+kanban,soft_skills
+leadership,soft_skills
+communication,soft_skills
+teamwork,soft_skills
+problem solving,soft_skills
+critical thinking,soft_skills
+project management,soft_skills
+jira,soft_skills
+confluence,soft_skills
+slack,soft_skills
+microsoft teams,soft_skills
+notion,soft_skills
+asana,soft_skills
+trello,soft_skills
+blockchain,blockchain_web3
+ethereum,blockchain_web3
+solidity,blockchain_web3
+web3.js,blockchain_web3
+ethers.js,blockchain_web3
+truffle,blockchain_web3
+hardhat,blockchain_web3
+smart contracts,blockchain_web3
+defi,blockchain_web3
+nft,blockchain_web3
+ipfs,blockchain_web3
+metamask,blockchain_web3
+polygon,blockchain_web3
+binance smart chain,blockchain_web3
+avalanche,blockchain_web3
+solana,blockchain_web3
+unity,game_dev
+unreal engine,game_dev
+godot,game_dev
+opengl,game_dev
+directx,game_dev
+vulkan,game_dev
+webgl,game_dev
+three.js,game_dev
+babylon.js,game_dev
+phaser,game_dev
+game design,game_dev

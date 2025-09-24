@@ -1,0 +1,82 @@
+skill,courses,difficulty,time_estimate
+python,"[""Python for Everybody - Coursera"", ""Complete Python Bootcamp - Udemy"", ""Python Documentation - python.org""]",beginner,3-6 months
+javascript,"[""JavaScript: The Complete Guide - Udemy"", ""freeCodeCamp JavaScript Algorithms"", ""MDN JavaScript Guide""]",beginner,3-6 months
+typescript,"[""TypeScript Documentation - typescriptlang.org"", ""Understanding TypeScript - Udemy"", ""TypeScript Deep Dive - GitBook""]",intermediate,1-2 months
+java,"[""Java Programming Masterclass - Udemy"", ""Java MOOC - University of Helsinki"", ""Oracle Java Documentation""]",intermediate,4-6 months
+c++,"[""C++ Programming Course - freeCodeCamp"", ""Learn C++ - Codecademy"", ""The Cherno C++ Series - YouTube""]",advanced,4-6 months
+c#,"[""C# Fundamentals - Pluralsight"", ""Complete C# Unity Developer - Udemy"", ""Microsoft C# Documentation""]",intermediate,3-4 months
+react,"[""React Documentation - react.dev"", ""Complete React Developer - ZTM"", ""Epic React - Kent C. Dodds""]",intermediate,2-3 months
+angular,"[""Angular - The Complete Guide - Udemy"", ""Angular Documentation - angular.io"", ""Angular University""]",intermediate,3-4 months
+vue.js,"[""Vue Mastery - Official Vue.js Courses"", ""Vue.js Documentation - vuejs.org"", ""The Complete Vue.js Course - Udemy""]",intermediate,2-3 months
+node.js,"[""The Complete Node.js Developer Course - Udemy"", ""Node.js Documentation - nodejs.org"", ""Node.js Design Patterns - Book""]",intermediate,2-3 months
+django,"[""Django for Beginners - William Vincent"", ""Django Documentation - djangoproject.com"", ""Two Scoops of Django - Book""]",intermediate,2-3 months
+flask,"[""Flask Mega-Tutorial - Miguel Grinberg"", ""Flask Documentation"", ""Full Stack Python with Flask - Udemy""]",intermediate,1-2 months
+fastapi,"[""FastAPI Documentation - fastapi.tiangolo.com"", ""FastAPI Full Course - freeCodeCamp"", ""Building APIs with FastAPI - Book""]",intermediate,1-2 months
+spring boot,"[""Spring Boot Tutorial - Baeldung"", ""Spring Boot Reference Documentation"", ""Spring Boot Masterclass - Udemy""]",advanced,3-4 months
+sql,"[""SQL for Data Science - Coursera"", ""The Complete SQL Bootcamp - Udemy"", ""SQLZoo Interactive Tutorial""]",beginner,1-2 months
+mongodb,"[""MongoDB University - Free Courses"", ""MongoDB - The Complete Developer's Guide - Udemy"", ""MongoDB Documentation""]",intermediate,1-2 months
+postgresql,"[""PostgreSQL Tutorial - postgresqltutorial.com"", ""The Complete SQL Bootcamp - Udemy"", ""PostgreSQL Documentation""]",intermediate,2-3 months
+redis,"[""Redis University - Free Courses"", ""Redis Documentation"", ""Redis in Action - Book""]",intermediate,1-2 months
+docker,"[""Docker Mastery - Udemy"", ""Docker Documentation - docker.com"", ""Play with Docker - Interactive Labs""]",intermediate,1-2 months
+kubernetes,"[""Certified Kubernetes Administrator - Linux Foundation"", ""Kubernetes Documentation - kubernetes.io"", ""Kubernetes the Hard Way - Kelsey Hightower""]",advanced,3-4 months
+aws,"[""AWS Certified Solutions Architect - A Cloud Guru"", ""AWS Documentation & Free Tier"", ""AWS Well-Architected Framework""]",intermediate,3-6 months
+azure,"[""Microsoft Azure Fundamentals - Microsoft Learn"", ""Azure Documentation"", ""AZ-900 Certification Path""]",intermediate,3-6 months
+gcp,"[""Google Cloud Skills Boost"", ""GCP Documentation"", ""Google Cloud Certified - Professional Cloud Architect""]",intermediate,3-6 months
+terraform,"[""Learn Terraform - HashiCorp Learn"", ""Terraform Up & Running - Book"", ""Terraform Documentation""]",intermediate,2-3 months
+machine learning,"[""Machine Learning - Andrew Ng (Coursera)"", ""Fast.ai Practical Deep Learning"", ""Hands-On Machine Learning - Book""]",advanced,4-6 months
+tensorflow,"[""TensorFlow Developer Certificate - Google"", ""TensorFlow Documentation & Tutorials"", ""Deep Learning Specialization - Coursera""]",advanced,3-4 months
+pytorch,"[""PyTorch Documentation & Tutorials"", ""Deep Learning with PyTorch - Book"", ""Fast.ai Course using PyTorch""]",advanced,3-4 months
+pandas,"[""Pandas Documentation"", ""Data Analysis with Pandas - Coursera"", ""Python for Data Analysis - Book""]",intermediate,1-2 months
+numpy,"[""NumPy Documentation"", ""NumPy Tutorial - W3Schools"", ""Scientific Computing with Python - freeCodeCamp""]",beginner,1 month
+react native,"[""React Native Documentation"", ""The Complete React Native Course - Udemy"", ""React Native Express""]",intermediate,2-3 months
+flutter,"[""Flutter Documentation - flutter.dev"", ""The Complete Flutter Development Bootcamp"", ""Flutter & Dart - The Complete Guide""]",intermediate,2-3 months
+git,"[""Pro Git Book - Free Online"", ""Git Documentation"", ""GitHub Skills""]",beginner,1-2 weeks
+github,"[""GitHub Documentation"", ""GitHub Skills - Interactive Courses"", ""GitHub Learning Lab""]",beginner,1 week
+jenkins,"[""Jenkins Documentation"", ""Jenkins Tutorial - TutorialsPoint"", ""Learn Jenkins - Udemy""]",intermediate,1-2 months
+selenium,"[""Selenium Documentation"", ""Selenium WebDriver with Java - Udemy"", ""Test Automation University""]",intermediate,2-3 months
+cypress,"[""Cypress Documentation"", ""Test Automation with Cypress - Udemy"", ""Cypress Real World App""]",intermediate,1-2 months
+jest,"[""Jest Documentation"", ""Testing JavaScript - Kent C. Dodds"", ""JavaScript Testing Best Practices""]",intermediate,1 month
+pytest,"[""pytest Documentation"", ""Python Testing 101 with pytest"", ""Test-Driven Development with Python - Book""]",intermediate,1 month
+agile,"[""Agile Fundamentals - Coursera"", ""Scrum.org Resources"", ""Agile Manifesto & Principles""]",beginner,2-4 weeks
+scrum,"[""Professional Scrum Master I - Scrum.org"", ""Scrum Guide"", ""Scrum Mastery - Udemy""]",beginner,2-4 weeks
+jira,"[""Jira Documentation - Atlassian"", ""Learn Jira - Coursera"", ""Jira Tutorial - YouTube""]",beginner,1 week
+graphql,"[""How to GraphQL - Tutorial"", ""GraphQL Documentation"", ""Full Stack GraphQL Applications - Book""]",intermediate,1-2 months
+rest api,"[""RESTful API Design - Best Practices"", ""Building REST APIs - Pluralsight"", ""REST API Tutorial""]",intermediate,1-2 months
+html,"[""HTML Documentation - MDN"", ""HTML & CSS - freeCodeCamp"", ""W3Schools HTML Tutorial""]",beginner,2-4 weeks
+css,"[""CSS Documentation - MDN"", ""CSS - The Complete Guide - Udemy"", ""CSS Tricks""]",beginner,1 month
+sass,"[""Sass Documentation"", ""Advanced CSS and Sass - Udemy"", ""Sass Guidelines""]",intermediate,2-3 weeks
+bootstrap,"[""Bootstrap Documentation"", ""Bootstrap 5 Tutorial - W3Schools"", ""Bootstrap 5 Course - freeCodeCamp""]",beginner,1-2 weeks
+tailwind css,"[""Tailwind CSS Documentation"", ""Tailwind CSS Course - Scrimba"", ""Tailwind Labs YouTube""]",intermediate,1-2 weeks
+webpack,"[""Webpack Documentation"", ""Webpack 5 Course - Udemy"", ""SurviveJS - Webpack""]",intermediate,1-2 weeks
+elasticsearch,"[""Elasticsearch Documentation"", ""Complete Guide to Elasticsearch - Udemy"", ""Elastic Training & Certification""]",advanced,2-3 months
+kafka,"[""Apache Kafka Documentation"", ""Apache Kafka Series - Udemy"", ""Kafka: The Definitive Guide - Book""]",advanced,2-3 months
+nginx,"[""NGINX Documentation"", ""NGINX Fundamentals - Udemy"", ""NGINX Cookbook - O'Reilly""]",intermediate,1 month
+linux,"[""Linux Journey"", ""Linux Command Line - Book"", ""Linux Foundation Training""]",intermediate,2-3 months
+rust,"[""The Rust Programming Language - Book"", ""Rust Documentation"", ""Rustlings - Small Exercises""]",advanced,3-4 months
+go,"[""A Tour of Go - Official Tutorial"", ""Go Documentation"", ""Learn Go with Tests""]",intermediate,2-3 months
+kotlin,"[""Kotlin Documentation"", ""Kotlin for Android Developers - Udemy"", ""Kotlin Koans - Interactive""]",intermediate,2-3 months
+swift,"[""Swift Documentation - swift.org"", ""100 Days of Swift - Hacking with Swift"", ""iOS & Swift - The Complete iOS App Development Bootcamp""]",intermediate,2-3 months
+ruby,"[""Ruby Documentation"", ""The Odin Project - Ruby"", ""Learn Ruby the Hard Way""]",intermediate,2-3 months
+php,"[""PHP Documentation"", ""PHP for Beginners - Laracasts"", ""Modern PHP - Book""]",intermediate,2-3 months
+matlab,"[""MATLAB Onramp - Free Tutorial"", ""MATLAB Documentation"", ""MATLAB Programming for Engineers - Coursera""]",intermediate,2-3 months
+r,"[""R for Data Science - Book"", ""R Documentation"", ""Statistics with R - Coursera""]",intermediate,2-3 months
+scala,"[""Scala Documentation"", ""Functional Programming in Scala - Coursera"", ""Rock the JVM""]",advanced,3-4 months
+blockchain,"[""Blockchain Basics - Coursera"", ""Mastering Blockchain - Book"", ""Blockchain Council Certifications""]",advanced,3-4 months
+solidity,"[""CryptoZombies - Interactive Tutorial"", ""Solidity Documentation"", ""Ethereum and Solidity - Udemy""]",advanced,2-3 months
+ethereum,"[""Ethereum.org Documentation"", ""Mastering Ethereum - Book"", ""ConsenSys Academy""]",advanced,3-4 months
+web3.js,"[""Web3.js Documentation"", ""Ethereum JavaScript API"", ""Building Web3 Dapps - Tutorial""]",advanced,2-3 months
+unity,"[""Unity Learn - Official Tutorials"", ""Complete C# Unity Game Developer - Udemy"", ""Unity Documentation""]",intermediate,3-4 months
+unreal engine,"[""Unreal Online Learning"", ""Unreal Engine 5 Course - Udemy"", ""Unreal Documentation""]",advanced,4-6 months
+ansible,"[""Ansible Documentation"", ""Ansible for DevOps - Book"", ""Learn Ansible - KodeKloud""]",intermediate,1-2 months
+prometheus,"[""Prometheus Documentation"", ""Monitoring with Prometheus - Book"", ""Prometheus Certified Associate""]",intermediate,1-2 months
+grafana,"[""Grafana Documentation"", ""Grafana Tutorials"", ""Observability with Grafana - Course""]",intermediate,1 month
+spacy,"[""spaCy Documentation"", ""Advanced NLP with spaCy - Course"", ""spaCy 101""]",intermediate,1-2 months
+nltk,"[""NLTK Documentation"", ""Natural Language Processing with Python - Book"", ""NLTK Tutorials""]",intermediate,1-2 months
+opencv,"[""OpenCV Documentation"", ""OpenCV Python Tutorial"", ""Computer Vision Course - Udemy""]",advanced,2-3 months
+pytorch,"[""PyTorch Tutorials"", ""Deep Learning with PyTorch - Manning"", ""Fast.ai Practical Deep Learning""]",advanced,3-4 months
+keras,"[""Keras Documentation"", ""Deep Learning with Python - François Chollet"", ""Keras Tutorial - TensorFlow""]",intermediate,2-3 months
+scikit-learn,"[""Scikit-learn Documentation"", ""Machine Learning with Python - Coursera"", ""Hands-On Machine Learning - Book""]",intermediate,2-3 months
+jupyter,"[""Jupyter Documentation"", ""Jupyter Notebook Tutorial"", ""Data Science Handbook""]",beginner,1 week
+spark,"[""Apache Spark Documentation"", ""Spark - The Definitive Guide"", ""Apache Spark with Scala - Udemy""]",advanced,3-4 months
+hadoop,"[""Hadoop Documentation"", ""Hadoop - The Definitive Guide"", ""Big Data Hadoop Tutorial - Udemy""]",advanced,3-4 months
+airflow,"[""Apache Airflow Documentation"", ""Data Pipelines with Apache Airflow - Book"", ""Airflow Tutorial""]",intermediate,1-2 months
