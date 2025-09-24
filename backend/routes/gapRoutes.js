@@ -7,7 +7,7 @@ const router = express.Router();
 router.post("/analyze", async (req, res) => {
   try {
     // forward request body to Python FastAPI
-    const response = await axios.post("http://localhost:8000/analyze", req.body);
+    const response = await axios.post("http://localhost:8000/api/skill-gap/analyze", req.body);
 
     res.json(response.data); // return Python’s response to frontend
   } catch (error) {
